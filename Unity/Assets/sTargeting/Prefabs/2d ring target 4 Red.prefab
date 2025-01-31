@@ -153,6 +153,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 1728240465754858}
+  dissolveMaterial: {fileID: 2100000, guid: d3bdbff45b690444badc9f21b1a1a1b7, type: 2}
+  dissolveSpeed: 1.5
 --- !u!65 &4125014378858110581
 BoxCollider:
   m_ObjectHideFlags: 0

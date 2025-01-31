@@ -93,6 +93,7 @@ MeshRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 58f2884c62accd3499c8cf1137faef3c, type: 2}
+  - {fileID: 2100000, guid: 58f2884c62accd3499c8cf1137faef3c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -154,6 +155,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 1964731505736434}
+  dissolveMaterial: {fileID: 2100000, guid: d3bdbff45b690444badc9f21b1a1a1b7, type: 2}
+  dissolveSpeed: 1
 --- !u!65 &7113567486525588029
 BoxCollider:
   m_ObjectHideFlags: 0
